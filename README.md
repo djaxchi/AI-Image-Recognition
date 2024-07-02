@@ -1,0 +1,1 @@
+This classifier use Convolution Neural Network approch to classify AI generated images VS real images.
